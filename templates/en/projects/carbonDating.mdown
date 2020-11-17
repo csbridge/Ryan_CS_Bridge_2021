@@ -1,5 +1,5 @@
 template: templates/en/projects/projectTemplate.ptl
-title: Carbon Dating
+title: Carbon Dating -- Pretty Wild Stuff!
 credit: Chris Piech
 
 You probably have seen or read news stories about fascinating ancient artifacts. At an archaeological dig a piece of wooden tool is unearthed and the archaeologist finds it to be 5,000 years old. A child mummy is found high in the Andes and the archaeologist says the child lived more than 2,000 years ago. Ever wondered how they know?
